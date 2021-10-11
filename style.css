@@ -1,0 +1,54 @@
+body {
+  /* background-color: rgb(127, 181, 241); */
+  margin: 0px;
+  padding: 0 px;
+  background-image: url("https://source.unsplash.com/WLUHO9A_xik/1600x900");
+}
+
+h1 {
+  color: rgb(29, 28, 27);
+  font-size: 60 px;
+}
+#b1,
+#b2,
+#b3,
+#b4,
+#b5,
+#b6,
+#b7,
+#b8,
+#b9 {
+  width: 90px;
+  height: 60px;
+  margin: auto;
+  border: 2px solid rgb(20, 20, 19);
+  border-radius: 7px;
+  font-size: 60 px;
+  text-align: center;
+}
+#but {
+  box-sizing: border-box;
+  width: 95px;
+  height: 40px;
+  border: 1px solid rgb(16, 18, 20);
+  margin: auto;
+  border-radius: 4px;
+  background-color: rgb(224, 37, 37);
+  color: rgb(237, 239, 250);
+  font-size: 20px;
+  cursor: pointer;
+}
+
+#print {
+  color: rgb(233, 213, 32);
+  font-size: 50px;
+}
+
+#main {
+  text-align: center;
+}
+
+#ins {
+  color: rgb(34, 35, 43);
+  font-size: 25px;
+}
